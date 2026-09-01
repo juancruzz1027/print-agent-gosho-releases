@@ -1,0 +1,11 @@
+{
+  "version": "0.1.3",
+  "notes": "v0.1.3: Actualización de Gosho Print Agent.",
+  "pub_date": "2026-09-01T01:59:54.777Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3ZOZWJLakY5ODhRcUZhdDIvSGdoM2ZDYmRPUW1BTEVvYVRCOWFqeXBZY3ExbVNKMjE3OWdhWDdsZE41dXhoUElUblA1ZFZQRHd0VENmVHlsSml4Q3RscU0wUWJXS1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMDIzNTIwCWZpbGU6R29zaG8gUHJpbnQgQWdlbnRfMC4xLjNfeDY0LXNldHVwLmV4ZQp4RC9ISGpJWHg5SHJneFlZZjNxeUxiaU5BNVM1UCt2YTFSUUlaTzV0cFpXNW9ZSGxDZ0ZWNlFZWXlLbFo4R2NDd1AxMi9XWllpSVNHRUFYV1dhZnNBZz09Cg==",
+      "url": "https://github.com/juancruzz1027/print-agent-gosho-releases/releases/download/v0.1.3/Gosho%20Print%20Agent_0.1.3_x64-setup.exe"
+    }
+  }
+}
